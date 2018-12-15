@@ -30,9 +30,13 @@ Evaluation:
 # Challenges
 
 Computational resources: the model is very memory intensive and could not be run successfully on local machines, so Google Colab had to be used.
+
 Large training set: the training dataset was very large and was too time consuming to iterate while exploring different model parameters, so a subset of the training set was used. 
+
 Non-existent words: One of the challenges was the fact that the goal is to explain words that do not exist in real life and are hard to interpret. 
-Misspellings and non-standard vocabulary in training set: Even the explanations from the training set were sometimes grammatically incorrect, had spelling errors, or used made-up words. 
+
+Misspellings and non-standard vocabulary in training set: Even the explanations from the training set were sometimes grammatically incorrect, had spelling errors, or used made-up words.
+
 
 # Team Contributions
 Yongwoo Noh
