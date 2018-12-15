@@ -12,7 +12,7 @@ Original idea based on paper by Ke Ni and William Yang Wang (https://arxiv.org/p
 
 The approach was to implement a seq2seq model presented in the original paper, and modify it to improve it wherever possible. 
 
-[Model Implementation in Google Colab](https://docs.google.com/presentation/d/1tvAXtJ9uLn_7AK5al-0sdwiWxpINxCQ7aw6iPPtFE8A/edit#slide=id.g49e4e44082_0_70)
+[Model Implementation in Google Colab](https://colab.research.google.com/drive/1Q039vkRUqwI3U6uxXZNP87_XaKNAki1d)
 
 ![Model implementation](https://github.com/yonguno/cs410explain/blob/master/seqseq.PNG)
 
