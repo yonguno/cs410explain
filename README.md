@@ -19,10 +19,13 @@ The approach was to implement a seq2seq model presented in the original paper, a
 # Framework
 
 Implementation: PyTorch neural networks were run on Google Colaboratory to leverage their computational resources.
+
 Training dataset: Urban Dictionary entries
+
 Evaluation: 
-    Qualitative: Does the explanation make grammatical sense?
-    Quantitative: BLEU score
+
+    *Qualitative: Does the explanation make grammatical sense?
+    *Quantitative: BLEU score
 
 # Challenges
 
